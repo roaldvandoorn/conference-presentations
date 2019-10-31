@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.752,D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\Project1.dproj=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.872,=D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\APRibbonBarAccessibility.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.576,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.835,D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\Project1.dproj=D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.591,D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\Unit1.dfm=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.591,D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\Unit1.pas=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.785,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.037,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.850,=D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\APBaseAccessibility.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.714,=D:\Projects\WE-Presentations\20171023 - EKON21 - CD with VCL - Roald van Doorn\01 Demo Ribbon\Program\src\APRibbonAccessibility.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.072,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.299,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.285,=C:\Users\rdoorn\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
