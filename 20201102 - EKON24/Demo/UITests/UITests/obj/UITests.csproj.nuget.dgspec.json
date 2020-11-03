@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\UITests\\UITests\\UITests.csproj": {}
+  },
+  "projects": {
+    "P:\\UITests\\UITests\\UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\UITests\\UITests\\UITests.csproj",
+        "projectName": "UITests",
+        "projectPath": "P:\\UITests\\UITests\\UITests.csproj",
+        "packagesPath": "C:\\Users\\roald.van.doorn\\.nuget\\packages\\",
+        "outputPath": "P:\\UITests\\UITests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\roald.van.doorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.4.192, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.4.19, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
