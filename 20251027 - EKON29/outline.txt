@@ -2,6 +2,10 @@ Who am I?
 What is SAM?
 Datasnap
 
+Conversion tool
+No integrity
+Config-based data pump
+
 Triggers
 No before - only after
 Set-based vs. Row based
