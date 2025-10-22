@@ -2,9 +2,6 @@ Who am I?
 What is SAM?
 Datasnap
 
-Conversion tool
-No integrity
-Config-based data pump
 
 Triggers
 No before - only after
@@ -25,6 +22,10 @@ Performance
 Query Plan
 Parameterized queries
 Statistics and Query store
+
+Conversion tool
+No integrity
+Config-based data pump
 
 Backups
 Full vs. Simple
