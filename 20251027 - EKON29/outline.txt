@@ -1,35 +1,41 @@
 Who am I?
 What is SAM?
-Datasnap
+Why change the DB?
+Why SQL Server?
 
-
+Datatypes
 Triggers
 No before - only after
 Set-based vs. Row based
 The empty set and triggers calling triggers
 
+Conversion tool
+No integrity
+Config-based data pump
+Demo: config file
+
+First Customer Live
+
 Transactions
 Nested transactions - No nests here
 1 connection - 1 transactions
+
+Second customer live
 
 Locking
 Keep it short - Brevity is your friend
 Pessimistic vs. Optimistic
 Indexes - not just for performance
 Cached values
+Demo: Show update aflevering locked w. SSMS
 
 Performance 
 Query Plan
 Parameterized queries
 Statistics and Query store
 
-Conversion tool
-No integrity
-Config-based data pump
-
 Backups
 Full vs. Simple
 Transaction log backups
 
-Tips
-Refactoring: Importance of a framework
+Final remarks and advice
